@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there I'm Rebecca 👋
+### Part III student Software engineering + Linguistics @ The University of Auckland
 
 <!--
 **rebeccafitzpatr/rebeccafitzpatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on building my experience as a young software engineer
-- 🌱 I’m currently learning database fundamentals, operating systems, computer graphics and image processing
+- 🌱 Right now, I'm learning database fundamentals, operating systems, computer graphics and image processing
 
 
 - 📫 How to reach me: email - rebecca.fitzpatr@gmail.com 
