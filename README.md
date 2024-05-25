@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on building my experience as a young software engineer
-- 🌱 Right now, I'm learning database fundamentals, operating systems, computer graphics and image processing
+- 🌱 I'm learning database fundamentals, operating systems, computer graphics and image processing
 
 
 - 📫 How to reach me: email - rebecca.fitzpatr@gmail.com 
