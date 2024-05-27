@@ -1,4 +1,4 @@
-# Hi there I'm Rebecca 👋
+# I'm Rebecca 👋
 ### Part III student Software engineering + Linguistics @ The University of Auckland
 
 <!--
