@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My birthday is on 29 Feb... only comes once every four years!
 -->
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on building my experience as a young software engineer
+- 🔭 I am building my experience as a young software engineer
 - 🌱 I'm learning database fundamentals, operating systems, computer graphics and image processing
 
 
