@@ -1,7 +1,10 @@
 # 💫 About Me:
 # I'm Rebecca 👋<br>
 ### Part IV student Software engineering + Linguistics @ The University of Auckland
-<br><br>- 😄 Pronouns: she/her<br>- 🔭 I am building my experience as a young software engineer<br>- 🌱 I'm learning fullstack web development, and android (kotlin)!<br><br><br>- 📫 How to reach me: email - rebecca.fitzpatr@gmail.com <br><br><br>
+- 😄 Pronouns: she/her<br>
+- 🔭 I am building my experience as a young software engineer<br>
+- 🌱 I'm learning fullstack web development, and android (kotlin)!<br><br>
+- 📫 How to reach me: email - rebecca.fitzpatr@gmail.com <br><br><br>
 
 
 # 💻 Tech Stack:
