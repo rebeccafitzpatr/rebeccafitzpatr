@@ -1,5 +1,4 @@
-# 💫 About Me:
-# I'm Rebecca 👋<br>
+# 💫 Hi 😃 I'm Rebecca 👩‍💻 👋<br>
 ### Studying Software Engineering, Linguistics and Mathematics @ The University of Auckland
 - 😄 Pronouns: she/her<br>
 - 🔭 I am building my experience as a young software engineer<br>
