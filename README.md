@@ -1,6 +1,6 @@
 # 💫 About Me:
 # I'm Rebecca 👋<br>
-### Part IV student Software engineering + Linguistics @ The University of Auckland
+### Studying Software Engineering, Linguistics and Mathematics @ The University of Auckland
 - 😄 Pronouns: she/her<br>
 - 🔭 I am building my experience as a young software engineer<br>
 - 🌱 I'm learning fullstack web development, and android (kotlin)!<br><br>
